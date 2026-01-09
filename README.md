@@ -105,7 +105,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları tak
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/MobileTestAutomationWithNewVersionAppiumAndCucumber.git](https://github.com/KULLANICI_ADINIZ/MobileTestAutomationWithNewVersionAppiumAndCucumber.git)
+    git clone https://github.com/kilicCeren/MobileTestAutomationWithNewVersionAppiumAndCucumber.git
     ```
 2.  **Konfigürasyonu Kontrol Edin:**
     * `src/test/java/utilities/Driver.java` içindeki emülatör adı (`Pixel 4`, `10.0`) ve test etmek istediğiniz uygulamaya ait `setAppPackage`/`setAppActivity` ayarlarını kontrol edin. (Projeye uygun APK dosyasının yolu da ayarlanmalıdır.)
@@ -225,7 +225,7 @@ To run this project in your local environment, you need to follow the steps belo
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/MobileTestAutomationWithNewVersionAppiumAndCucumber.git](https://github.com/YOUR_USERNAME/MobileTestAutomationWithNewVersionAppiumAndCucumber.git)
+    git clone https://github.com/kilicCeren/MobileTestAutomationWithNewVersionAppiumAndCucumber.git
     ```
 2.  **Verify Configuration:**
     * Check the emulator name (`Pixel 4`, `10.0`) and the `setAppPackage`/`setAppActivity` settings for the application you want to test within `src/test/java/utilities/Driver.java`. (The correct path to the relevant APK file must also be set.)
